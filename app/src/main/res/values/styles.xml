@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="AppTheme" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar">
+
+        <item   name="colorPrimary">@color/design_default_color_primary</item>
+        <item   name="colorPrimaryDark">@color/design_default_color_primary_dark</item>
+        <item   name="colorAccent">#DA0F37</item>
+    </style>
+
+</resources>
